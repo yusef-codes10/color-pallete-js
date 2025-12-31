@@ -67,6 +67,9 @@ button {
 
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+
+    gap: 2px;
+
 }
 
 .color-container {
@@ -81,3 +84,8 @@ button {
 .orange {background-color: #ffa500;}
 .yellow {background-color: #ffff00;}
 .purple {background-color: #800080;}
+
+
+.hdden {
+    display: none;
+}
