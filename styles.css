@@ -55,3 +55,9 @@ button {
     cursor: pointer;
     margin: 2rem 0;
 }
+
+.color-pallete {
+    height: 200px;
+    width: 500px;
+    background-color: sienna;
+}
