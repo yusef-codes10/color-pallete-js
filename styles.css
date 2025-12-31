@@ -67,5 +67,12 @@ button {
 
 .color-container {
     height: 100px;
-    background-color: red;
+    /* background-color: red; */
 }
+
+.color-container .red {background-color: #ff0000;}
+.color-container .blue {background-color: #0000ff;}
+.color-container .green {background-color: #008000;}
+.color-container .orange {background-color: #ffa500;}
+.color-container .yellow {background-color: #ffff00;}
+.color-container .purple {background-color: #800080;}
