@@ -36,5 +36,10 @@ nav {
 }
 
 .container .title {
+    display: inline;
     font-size: 2rem;
+}
+
+.container .text {
+    display: inline;
 }
