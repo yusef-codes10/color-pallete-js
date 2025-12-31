@@ -23,3 +23,12 @@ nav {
 
     padding: 12px 16px;
 }
+
+.container {
+    background-color: seagreen;
+    height: 70vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
