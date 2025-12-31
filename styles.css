@@ -63,11 +63,16 @@ button {
     border-radius: 2rem;
 
     overflow: hidden;
+
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 .color-container {
     height: 100px;
     /* background-color: red; */
+
 }
 
 .red {background-color: #ff0000;}
